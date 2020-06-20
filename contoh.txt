@@ -1,1 +1,3 @@
 Halo guys, hari ini kita belajar Git dan Github lhoo
+
+halo saya nambahin baris ini menggunakan branch ke3
